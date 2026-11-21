@@ -1,0 +1,36 @@
+item_id,episode_title,show_name,duration_min,show_notes,topic_tags
+P001,Deep Focus for Better Study,Study Mind,30,"Practical techniques for improving concentration, avoiding distractions, and building deep work sessions for students.",study focus productivity
+P002,Time Management for Busy Students,Smart Life,25,"Learn to plan a weekly schedule, prioritize assignments, and balance classes with personal activities.",time management study productivity
+P003,Build Better Learning Habits,Edu Podcast,40,"Explore active recall, spaced repetition, note taking, and routines that support long term learning.",education learning study
+P004,A Calm Morning Routine,Daily Life,20,"Simple morning habits that help listeners feel prepared, organized, and focused throughout the day.",morning routine lifestyle habits
+P005,Managing Stress During Exams,Mind Care,35,Understand common sources of academic stress and learn practical relaxation and planning strategies.,mental health stress students
+P006,How Memory Really Works,Brain Talks,32,"An accessible discussion of memory, attention, forgetting, and evidence based ways to remember information.",memory neuroscience learning
+P007,Stop Procrastinating Today,The Growth Hour,28,Why people delay important tasks and how small starting steps can make difficult work easier.,procrastination motivation productivity
+P008,The Science of Sleep,Wellness Weekly,38,"Discover sleep cycles, healthy sleep routines, and how rest supports mood, memory, and concentration.",sleep health science
+P009,Digital Minimalism for Students,Tech Balance,27,"Reduce phone distractions, organize notifications, and use digital tools more intentionally.",technology digital wellbeing focus
+P010,Speaking with Confidence,Career Path,34,"Practice clear communication, presentation structure, and ways to manage nervousness when speaking.",communication confidence career
+P011,Introduction to Artificial Intelligence,Future Explained,42,"A beginner friendly overview of machine learning, neural networks, and everyday applications of AI.",artificial intelligence technology machine learning
+P012,Python Skills for Beginners,Code Starter,36,"Learn programming fundamentals, variables, loops, functions, and how to practice Python consistently.",python programming technology
+P013,Cybersecurity Basics,Secure World,31,"Understand passwords, phishing, privacy, and simple habits that help protect personal information online.",cybersecurity technology privacy
+P014,The Future of Data Science,Data Stories,44,"Explore how data collection, statistics, visualization, and machine learning support decisions.",data science analytics technology
+P015,Creative Thinking at Work,Ideas Lab,29,"Use brainstorming, curiosity, and experimentation to approach everyday problems in new ways.",creativity innovation business
+P016,Healthy Eating on a Budget,Everyday Health,33,"Plan balanced meals, shop thoughtfully, and prepare affordable food during a busy week.",nutrition health budget
+P017,Movement and Mental Wellbeing,Active Life,26,"Discuss how regular enjoyable movement can support energy, mood, and general wellbeing.",exercise health wellbeing
+P018,Understanding Mindfulness,Mind Care,37,"An introduction to present moment awareness, breathing exercises, and mindful daily routines.",mindfulness meditation mental health
+P019,Building Strong Friendships,People Matters,30,"Explore listening, empathy, trust, and communication skills that help maintain healthy friendships.",relationships communication empathy
+P020,Travel on a Student Budget,Open Roads,39,"Plan affordable trips by comparing transport, choosing flexible dates, and setting a realistic travel budget.",travel budget students planning
+P021,Personal Finance First Steps,Money Basics,41,"Learn to track spending, set savings goals, understand needs and wants, and create a simple budget.",finance saving budgeting
+P022,Starting a Small Business,Founder Stories,45,"An introduction to customer needs, simple business models, marketing, and testing an early idea.",entrepreneurship business marketing
+P023,How Great Teams Collaborate,Work Better,32,"Understand team roles, constructive feedback, shared goals, and ways to solve disagreements.",teamwork leadership communication
+P024,Learning a New Language,Language Journey,28,"Build vocabulary, practice listening, use spaced review, and create a sustainable language learning routine.",language learning memory education
+P025,The Art of Note Taking,Study Mind,24,"Compare outline notes, mind maps, and digital notes, then choose a method that supports revision.",note taking study learning
+P026,Research Skills for Beginners,Campus Guide,35,"Learn to form research questions, evaluate sources, organize references, and avoid unsupported claims.",research education critical thinking
+P027,Design Thinking Explained,Ideas Lab,40,"A practical introduction to understanding users, defining problems, prototyping, and testing solutions.",design thinking innovation creativity
+P028,Social Media and Society,Culture Connect,43,"Discuss online communities, media literacy, algorithms, and the effects of social platforms.",social media technology society
+P029,Climate Change Made Clear,Planet Today,46,"Explore climate science, renewable energy, everyday sustainability, and choices that affect the environment.",climate environment science sustainability
+P030,The Basics of Photography,Creative Corner,34,"Learn about light, composition, framing, and ways to tell visual stories with a camera.",photography creativity art
+P031,Music and the Brain,Brain Talks,31,"Explore how music relates to memory, emotion, attention, and the experience of learning an instrument.",music neuroscience memory
+P032,Healthy Work-Life Boundaries,Work Better,29,"Set realistic expectations, manage availability, and make time for rest while meeting responsibilities.",work life balance wellbeing productivity
+P033,Public Speaking for Beginners,Career Path,37,"Prepare a short talk, organize key points, connect with an audience, and improve through practice.",public speaking communication confidence
+P034,Problem Solving with Algorithms,Code Starter,48,"Break complex tasks into smaller steps and understand searching, sorting, and algorithmic thinking.",algorithms programming problem solving
+P035,Goal Setting That Works,The Growth Hour,27,"Turn broad ambitions into clear milestones, track progress, and adjust plans when circumstances change.",goal setting motivation productivity

@@ -1,0 +1,34 @@
+TEST CASE 1: TOPIC QUERY
+item_id                     episode_title    show_name  similarity_score                        matching_keywords
+   P002 Time Management for Busy Students   Smart Life          0.278731 time management, management, time, study
+   P001       Deep Focus for Better Study   Study Mind          0.196868                       deep, focus, study
+   P004            A Calm Morning Routine   Daily Life          0.117613                                   habits
+   P013              Cybersecurity Basics Secure World          0.063987                                   habits
+   P009   Digital Minimalism for Students Tech Balance          0.063921                                    focus
+
+TEST CASE 2: NEXT EPISODE
+item_id                     episode_title       show_name  similarity_score   matching_keywords
+   P009   Digital Minimalism for Students    Tech Balance          0.063179 focus, distractions
+   P005      Managing Stress During Exams       Mind Care          0.053434 students, practical
+   P007        Stop Procrastinating Today The Growth Hour          0.047872  work, productivity
+   P032      Healthy Work-Life Boundaries     Work Better          0.046701  work, productivity
+   P002 Time Management for Busy Students      Smart Life          0.044713 study, productivity
+
+TEST CASE 3: COLD START
+item_id                           episode_title       show_name  similarity_score                               matching_keywords
+   P036 Deep Focus and Effective Study Planning Student Podcast          0.812130 time management, management, time, focus, study
+   P002       Time Management for Busy Students      Smart Life          0.278731        time management, management, time, study
+   P001             Deep Focus for Better Study      Study Mind          0.196868                              deep, focus, study
+   P004                  A Calm Morning Routine      Daily Life          0.117613                                          habits
+   P013                    Cybersecurity Basics    Secure World          0.063987                                          habits
+
+New episode rating count: 0
+New episode appears: True
+
+USER RECOMMENDATIONS
+item_id                           episode_title        show_name  average_rating  rating_count
+   P005            Managing Stress During Exams        Mind Care             5.0             2
+   P011 Introduction to Artificial Intelligence Future Explained             5.0             2
+   P014              The Future of Data Science     Data Stories             5.0             2
+   P015               Creative Thinking at Work        Ideas Lab             5.0             2
+   P019             Building Strong Friendships   People Matters             5.0             2

@@ -1,0 +1,61 @@
+user_id,item_id,rating,listener_comment
+U001,P001,5,Very useful for study sessions
+U001,P002,5,Clear planning advice
+U001,P003,4,Helpful learning techniques
+U001,P007,4,Good motivation
+U001,P025,5,Useful note taking tips
+U002,P004,4,Easy morning ideas
+U002,P005,5,Helpful exam advice
+U002,P008,5,Sleep tips were practical
+U002,P016,4,Affordable meal ideas
+U002,P018,4,Calming explanation
+U003,P009,4,Useful digital habits
+U003,P011,5,Interesting AI introduction
+U003,P012,5,Good Python overview
+U003,P013,4,Important online safety tips
+U003,P014,5,Great data science discussion
+U004,P010,4,Good speaking advice
+U004,P019,5,Thoughtful friendship topic
+U004,P023,4,Useful teamwork ideas
+U004,P033,5,Helpful presentation tips
+U004,P035,4,Clear goal setting
+U005,P015,5,Creative and inspiring
+U005,P022,4,Good startup overview
+U005,P023,5,Practical team advice
+U005,P027,5,Interesting design process
+U005,P030,4,Helpful photography basics
+U006,P016,5,Useful food suggestions
+U006,P017,4,Encourages healthy activity
+U006,P018,5,Good mindfulness introduction
+U006,P029,4,Clear climate explanation
+U006,P032,5,Important boundary advice
+U007,P006,5,Interesting memory science
+U007,P008,4,Helpful sleep information
+U007,P024,5,Useful language routine
+U007,P025,5,Great revision ideas
+U007,P031,4,Interesting brain facts
+U008,P002,5,Good planning framework
+U008,P007,4,Practical anti-procrastination tips
+U008,P021,5,Useful budgeting basics
+U008,P032,4,Good work life advice
+U008,P035,5,Motivating episode
+U009,P011,5,Easy AI explanation
+U009,P014,5,Useful data science overview
+U009,P026,4,Good research guidance
+U009,P027,4,Interesting problem approach
+U009,P034,5,Helpful algorithm introduction
+U010,P001,5,Improved my focus
+U010,P003,5,Great learning strategies
+U010,P006,4,Clear explanation
+U010,P024,4,Useful language learning tips
+U010,P025,5,Excellent study notes advice
+U011,P010,4,Useful communication skills
+U011,P015,5,Creative ideas
+U011,P020,5,Good travel planning
+U011,P022,4,Interesting business topic
+U011,P030,5,Enjoyed the photography tips
+U012,P005,5,Relevant stress advice
+U012,P017,4,Good wellbeing discussion
+U012,P019,5,Helpful relationship insights
+U012,P028,4,Interesting social media topic
+U012,P029,5,Important environmental information
